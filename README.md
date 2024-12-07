@@ -103,8 +103,6 @@ The sum of all multiples of a number \( k \) up to a limit \( n \) can be calcul
 $$
 S = k \cdot \frac{p \cdot (p + 1)}{2}
 
-lcm(a, b) = |a * b| / gcd(a, b)
-
 $$
 
 where:
