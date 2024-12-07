@@ -16,3 +16,9 @@ When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are $$
 
 When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+
+Some display math:
+```math
+e^{i\pi} + 1 = 0
+```
+and some inline math, $`a^2 + b^2 = c^2`$.
