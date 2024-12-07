@@ -5,6 +5,12 @@
 // # URL
 // https://projecteuler.net/problem=1
 // http://euler.stephan-brumme.com/1/
+
+
+
+[https://projecteuler.net/problem=1](https://projecteuler.net/problem=1)
+
+
 //
 // # Problem
 // If we list all the natural numbers below 10 that are multiples of 3 or 5,
