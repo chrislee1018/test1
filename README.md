@@ -102,6 +102,9 @@ The sum of all multiples of a number \( k \) up to a limit \( n \) can be calcul
 
 $$
 S = k \cdot \frac{p \cdot (p + 1)}{2}
+
+lcm(a, b) = |a * b| / gcd(a, b)
+
 $$
 
 where:
@@ -109,17 +112,6 @@ where:
 - \( k \) is the number whose multiples are being summed.
 - \( n \) is the limit (inclusive).
 - \( p = \lfloor n / k \rfloor \) is the number of multiples of \( k \) up to \( n \).
-
-## Explanation
-
-1. Find the largest integer \( p \) such that \( k \cdot p \leq n \).
-2. Use the sum of the first \( p \) natural numbers, \( \frac{p \cdot (p + 1)}{2} \), scaled by \( k \).
-
-## Example
-
-If \( k = 3 \) and \( n = 10 \):
-
-
 
 $$
 
