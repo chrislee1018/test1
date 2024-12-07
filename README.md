@@ -34,9 +34,9 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 
 The sum of all multiples of a number \( k \) up to a limit \( n \) can be calculated using the formula:
 
-\[
+$$
 S = k \cdot \frac{p \cdot (p + 1)}{2}
-\]
+$$
 
 where:
 
